@@ -3,3 +3,4 @@ pymssql
 jinja2
 uvicorn
 python-multipart
+gunicorn
