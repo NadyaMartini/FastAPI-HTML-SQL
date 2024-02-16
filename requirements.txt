@@ -1,3 +1,4 @@
 fastapi
 pymssql
 jinja2
+uvicorn
