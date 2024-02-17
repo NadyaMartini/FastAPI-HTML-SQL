@@ -17,7 +17,7 @@ def insert_data_to_database(name, date):
     server = 'greeting-app-db.database.windows.net'
     database = 'Greeting_app_DB'
     username = 'dp-greeting-nadia'
-    password = 'Uruhug7398'
+    password = '*******' #password ! 
 
     try:
         # Establish connection
